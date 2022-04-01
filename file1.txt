@@ -1,0 +1,1 @@
+prima riga del file1.txt
